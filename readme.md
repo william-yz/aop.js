@@ -1,5 +1,6 @@
 # node-aop  lib
 
+## usage
 ```javascript
 var originFunction = function () {
   return new Promise(function (resolve, reject) {
