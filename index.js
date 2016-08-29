@@ -1,3 +1,4 @@
+'use strict'
 function aop(f) {
   return new aop.prototype.init(f)
 }
