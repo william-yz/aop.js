@@ -1,4 +1,4 @@
-# node-aop  lib
+# aop.js
 
 ## usage
 ```javascript
