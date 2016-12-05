@@ -1,23 +1,23 @@
 {
-  "name": "node-aop",
+  "name": "aop.js",
   "version": "0.0.1",
-  "description": "A nodejs aop library.",
+  "description": "A aop library for javascript.",
   "main": "index.js",
   "scripts": {
     "test": "node ./test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/william-yz/node-aop.git"
+    "url": "git+https://github.com/william-yz/aop.js.git"
   },
   "keywords": [
-    "nodejs",
+    "javascript",
     "aop"
   ],
   "author": "William Yang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/william-yz/node-aop/issues"
+    "url": "https://github.com/william-yz/aop.js/issues"
   },
-  "homepage": "https://github.com/william-yz/node-aop#readme"
+  "homepage": "https://github.com/william-yz/aop.js#readme"
 }
